@@ -1,18 +1,14 @@
 # FUTURE_PE_03
 # AI SEO Blog & Content Cluster Generator
-
 ## Overview
-
 This project uses Claude AI and prompt engineering to generate SEO-optimized blog content, content clusters, keyword research, and internal linking strategies for business websites.
 
 ## Tools Used
-
 * Claude AI
 * Microsoft Word
 * GitHub
 
 ## Features
-
 * Keyword Research
 * Content Cluster Creation
 * SEO Blog Outline Generation
@@ -21,7 +17,6 @@ This project uses Claude AI and prompt engineering to generate SEO-optimized blo
 * Local SEO Content
 
 ## Skills Gained
-
 * Prompt Engineering
 * SEO Content Creation
 * Keyword Research
@@ -30,5 +25,7 @@ This project uses Claude AI and prompt engineering to generate SEO-optimized blo
 * AI Content Generation
 
 ## Conclusion
-
 This project demonstrates how AI can streamline SEO content creation through structured prompts, improving efficiency and content quality.
+
+## Author
+Future Interns – Prompt Engineering Track (PE) Task 03 – AI SEO Blog & Content Cluster Generator for Business Websites
